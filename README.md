@@ -1,7 +1,7 @@
 # week5-checkin
-week 5 project progress
+week 5 project progress: Full CRUD functionality is complete for the app
 
-projector replacement project:
+projector replacement project app:
 
 ability to create and upload classroom info/projector info
 
@@ -9,7 +9,6 @@ ability to edit with new projector model and IP
 
 ability to delete rooms
 
-Full CRUD functionality is complete for week 5
 
 Authentication is currently being worked on
 
